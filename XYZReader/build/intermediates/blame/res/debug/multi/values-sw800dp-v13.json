@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "D:\\AE\\Android\\Projects\\NanoDegree\\Android\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw800dp-v13\\values-sw800dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "D:\\AE\\Android\\Projects\\NanoDegree\\Android\\Project5\\xyzreader\\XYZReader\\src\\main\\res\\values-sw800dp\\macro_layout.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 38,
+                        "endColumn": 43,
+                        "endOffset": 77
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 56,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "D:\\AE\\Android\\Projects\\NanoDegree\\Android\\Project5\\xyzreader\\XYZReader\\src\\main\\res\\values-sw800dp\\macro_layout.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 139,
+                        "endColumn": 56,
+                        "endOffset": 191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 156,
+                    "endColumn": 54,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "D:\\AE\\Android\\Projects\\NanoDegree\\Android\\Project5\\xyzreader\\XYZReader\\src\\main\\res\\values-sw800dp\\macro_layout.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 83,
+                        "endColumn": 54,
+                        "endOffset": 133
+                    }
+                }
+            }
+        ]
+    }
+]

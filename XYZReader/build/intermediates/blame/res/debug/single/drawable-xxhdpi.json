@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AE\\Android\\Projects\\NanoDegree\\Android\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "D:\\AE\\Android\\Projects\\NanoDegree\\Android\\Project5\\xyzreader\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\AE\\Android\\Projects\\NanoDegree\\Android\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_share.png",
+        "source": "D:\\AE\\Android\\Projects\\NanoDegree\\Android\\Project5\\xyzreader\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\AE\\Android\\Projects\\NanoDegree\\Android\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_add.png",
+        "source": "D:\\AE\\Android\\Projects\\NanoDegree\\Android\\Project5\\xyzreader\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\AE\\Android\\Projects\\NanoDegree\\Android\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_back.png",
+        "source": "D:\\AE\\Android\\Projects\\NanoDegree\\Android\\Project5\\xyzreader\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_back.png"
+    }
+]
