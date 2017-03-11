@@ -24,12 +24,12 @@
         "source": "D:\\AE\\Android\\Projects\\NanoDegree\\Android\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "D:\\AE\\Android\\Projects\\NanoDegree\\Android\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "D:\\AE\\Android\\Projects\\NanoDegree\\Android\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\AE\\Android\\Projects\\NanoDegree\\Android\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
         "source": "D:\\AE\\Android\\Projects\\NanoDegree\\Android\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AE\\Android\\Projects\\NanoDegree\\Android\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\AE\\Android\\Projects\\NanoDegree\\Android\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\AE\\Android\\Projects\\NanoDegree\\Android\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png",
